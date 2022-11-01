@@ -6,7 +6,7 @@ A big and normal struggle is to take a mockup and turn it into a website.
 
 Let's do it together.
 
-This site is inspired by:  Hullo https://hullopillow.com 
+This site is inspired by:  Hullo https://hullopillow.com
 
 
 ## Start with our Mockup
